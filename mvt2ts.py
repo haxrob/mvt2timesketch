@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+# Author: haxrob https://github.com/x1sec
+# See LICENSE.md
+
 import csv
 import json
 from datetime import datetime

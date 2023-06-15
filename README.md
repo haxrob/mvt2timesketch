@@ -22,7 +22,7 @@ The file can then be imported into Timesketch using `timesketch_importer` or via
 ```
 timesketch_importer --sketch_name iphone-case iphone-timeline.jsonl
 ```
-![iphone timesketch](example.png)
+![iphone timesketch](./example.png)
 
 
 

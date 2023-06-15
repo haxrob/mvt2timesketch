@@ -1,7 +1,5 @@
 # mvt2ts
-A script to convert [Mobile Verification Toolkit (MVT)](https://github.com/mvt-project/mvt/) generated timeline files to a format that can be imported into Google's [Timesketch](https://timesketch.org/) 
-
-This is particularly useful for peforming forensic analysis on iPhone or Android devices. 
+A script to convert [Mobile Verification Toolkit (MVT)](https://github.com/mvt-project/mvt/) generated timeline files to a format that can be imported into Google's [Timesketch](https://timesketch.org/) for performing forensic analysis on iPhone or Android devices. 
 
 ## Usage
 After running MVT, a file is generated called `timeline.csv`. Convert it to a Timesketch compatible import file:
